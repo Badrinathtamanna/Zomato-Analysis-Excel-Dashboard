@@ -19,7 +19,7 @@ Filters and slicers for data exploration and analysis.
 Clear and concise presentation of key findings.
 
 Usage:
-Open the Excel file containing the dashboard.
+Open the Excel file: Zomata Analysis - Dataset.xlsx containing the dashboard.
 Explore the interactive visualizations to gain insights into Zomato's business performance.
 Use the filters and slicers to drill down into specific data points.
 
