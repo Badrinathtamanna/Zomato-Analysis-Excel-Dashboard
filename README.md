@@ -23,5 +23,7 @@ Open the Excel file: Zomata Analysis - Dataset.xlsx containing the dashboard.
 Explore the interactive visualizations to gain insights into Zomato's business performance.
 Use the filters and slicers to drill down into specific data points.
 
-Author: Badrinath Tamanna 
+Contact:
+Badrinath Tamanna
+LinkedIn: www.linkedin.com/in/badrinath-tamanna
 Email: badrinath.tamanna2@gmail.com
